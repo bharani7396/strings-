@@ -5,6 +5,7 @@ public class A1 {
 		   /* String s1 = "java";
 		    String s2 = "ja";
 		    String s3 = "va";
+			Staring S7
 
 		    String s4 = "ja" + s3;
 		    String s5 = s2 + "va";
